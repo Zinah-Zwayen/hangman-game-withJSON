@@ -1,0 +1,34 @@
+{
+    "programming": [
+      "php", "javascript", "java", "mysql", "python", "ruby", "swift", "kotlin", 
+      "html", "css", "typescript", "bash", "c", "csharp", "go", "perl", "rust", 
+      "dart", "matlab", "fortran", "scala", "haskell", "lua", "groovy", 
+      "objective-c", "r", "assembly", "visualbasic", "sql", "vba", "clojure"
+    ],
+    "movies": [
+      "Prestige", "Inception", "Parasite", "Interstellar", "Whiplash", "Memento", 
+      "Gladiator", "Avatar", "Titanic", "Coco", "The Godfather", "The Dark Knight", 
+      "Pulp Fiction", "Schindler's List", "Fight Club", "Forrest Gump", 
+      "The Matrix", "Goodfellas", "The Shawshank Redemption", "Joker", 
+      "The Lion King", "Star Wars", "Back to the Future", "Avengers", "Frozen", 
+      "The Social Network", "Inglourious Basterds", "The Silence of the Lambs", 
+      "La La Land", "Slumdog Millionaire"
+    ],
+    "people": [
+      "Albert Einstein", "Hitchcock", "Alexander", "Cleopatra", "Mahatma Gandhi", 
+      "Marie Curie", "Isaac Newton", "Leonardo da Vinci", "Galileo", "Ada Lovelace", 
+      "Nikola Tesla", "Stephen Hawking", "Charles Darwin", "Pablo Picasso", 
+      "Aristotle", "Plato", "Confucius", "Shakespeare", "Benjamin Franklin", 
+      "Walt Disney", "Alan Turing", "Elon Musk", "Steve Jobs", "Mark Zuckerberg", 
+      "Thomas Edison", "Rosa Parks", "Nelson Mandela", "Frida Kahlo", "Vincent van Gogh", 
+      "Malala Yousafzai", "Alexander Graham Bell"
+    ],
+    "countries": [
+      "Syria", "Iraq", "Yemen", "Egypt", "Bahrain", "Qatar", "Japan", "Canada", 
+      "Brazil", "Australia", "Germany", "France", "China", "India", "Russia", 
+      "South Africa", "Italy", "Spain", "Mexico", "New Zealand", "South Korea", 
+      "Argentina", "Switzerland", "Netherlands", "Turkey", "Norway", "Denmark", 
+      "Sweden", "Greece", "Portugal", "Saudi Arabia", "United Kingdom"
+    ]
+  }
+  
